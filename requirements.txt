@@ -1,0 +1,10 @@
+flask==3.0.3
+gunicorn==22.0.0
+geopandas==0.14.4
+pandas==2.2.2
+shapely==2.0.4
+pyproj==3.6.1
+fiona==1.9.6
+scikit-learn==1.5.1
+openpyxl==3.1.5
+matplotlib==3.9.0
